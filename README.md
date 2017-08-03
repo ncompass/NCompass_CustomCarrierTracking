@@ -13,8 +13,9 @@
 
 ## Author Info
 
-Jeremy Stone - NComp@ss Team – [https://www.ncompass.co.uk/extensions]
+Jeremy Stone - NComp@ss Team  
 
+[https://www.ncompass.co.uk/extensions]  
 [https://github.com/ncompass?tab=repositories]
 
 ## ChangeLog
