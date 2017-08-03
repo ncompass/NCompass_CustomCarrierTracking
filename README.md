@@ -17,7 +17,7 @@ Jeremy Stone - NComp@ss Team – [http://www.ncompass.co.uk/extensions]
 
 [https://github.com/ncompass?tab=repositories]
 
-##ChangeLog
+## ChangeLog
 
 * 1.0.0
   * Added 5 Configurable Shipping Methods/Carriers
