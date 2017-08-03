@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <NCompass_CustomCarrier4>
+            <module>1.0.0</module>
+        </NCompass_CustomCarrier4>
+    </modules>
+    <global>
+        <models>
+            <ncompass_customcarrier4>
+                <class>NCompass_CustomCarrier4_Model</class>
+            </ncompass_customcarrier4>
+        </models>
+    </global>
+    <default>
+        <carriers>
+            <ncompass_customcarrier4>
+                <active>1</active>
+                <model>ncompass_customcarrier4/carrier</model>
+                <title>Custom Carrier 4</title>
+                <carrierName>MyHermes</carrierName>
+                <titleFree>Free Shipping</titleFree>
+                <titleStandard>Standard Shipping</titleStandard>
+                <priceStandard>4.99</pricesStandard>
+                <titleExpress>Express Delivery</titleExpress>
+                <priceExpress>25.00</priceExpress>
+                <trackingUrl>https://www.myhermes.co.uk/tracking-results.html?trackingNumber=</trackingUrl>
+                <trackingAfter>1</trackingAfter>
+                <sort_order>10</sort_order>
+                <sallowspecific>0</sallowspecific>
+            </ncompass_customcarrier4>
+        </carriers>
+    </default>
+</config>

@@ -3,8 +3,8 @@
   <sections>
     <carriers translate="label" module="shipping">
       <groups>
-        <ncompass_customcarrier1 translate="label">
-          <label>NCompass Custom Carrier 1 (Delivered Exactly)</label>
+        <ncompass_customcarrier5 translate="label">
+          <label>NCompass Custom Carrier 5 (DPD)</label>
           <frontend_type>text</frontend_type>
           <sort_order>1</sort_order>
           <show_in_default>1</show_in_default>
@@ -122,7 +122,7 @@
               <can_be_empty>1</can_be_empty>
             </specificcountry>
           </fields>
-        </ncompass_customcarrier1>
+        </ncompass_customcarrier5>
       </groups>
     </carriers>
   </sections>

@@ -1,9 +1,9 @@
 <?php
-class NCompass_CustomCarrier1_Model_Carrier
+class NCompass_CustomCarrier3_Model_Carrier
 extends Mage_Shipping_Model_Carrier_Abstract
 implements Mage_Shipping_Model_Carrier_Interface{
 
-  protected $_code = 'ncompass_customcarrier1';
+  protected $_code = 'ncompass_customcarrier3';
 
   public function collectRates(Mage_Shipping_Model_Rate_Request $request){
     $result = Mage::getModel('shipping/rate_result');

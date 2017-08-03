@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <NCompass_CustomCarrier5>
+            <module>1.0.0</module>
+        </NCompass_CustomCarrier5>
+    </modules>
+    <global>
+        <models>
+            <ncompass_customcarrier5>
+                <class>NCompass_CustomCarrier5_Model</class>
+            </ncompass_customcarrier5>
+        </models>
+    </global>
+    <default>
+        <carriers>
+            <ncompass_customcarrier5>
+                <active>1</active>
+                <model>ncompass_customcarrier5/carrier</model>
+                <title>Custom Carrier 5</title>
+                <carrierName>DPD</carrierName>
+                <titleFree>Free Shipping</titleFree>
+                <titleStandard>Standard Shipping</titleStandard>
+                <priceStandard>4.99</pricesStandard>
+                <titleExpress>Express Delivery</titleExpress>
+                <priceExpress>25.00</priceExpress>
+                <trackingUrl>http://www.dpd.co.uk/apps/tracking/?reference=</trackingUrl>
+                <trackingAfter>1</trackingAfter>
+                <sort_order>10</sort_order>
+                <sallowspecific>0</sallowspecific>
+            </ncompass_customcarrier5>
+        </carriers>
+    </default>
+</config>

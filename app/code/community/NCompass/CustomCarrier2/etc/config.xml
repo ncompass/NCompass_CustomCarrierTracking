@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
   <modules>
-    <NCompass_CustomCarrier1>
+    <NCompass_CustomCarrier2>
       <module>1.0.0</module>
-    </NCompass_CustomCarrier1>
+    </NCompass_CustomCarrier2>
   </modules>
   <global>
     <models>
-      <ncompass_customcarrier1>
-        <class>NCompass_CustomCarrier1_Model</class>
-      </ncompass_customcarrier1>
+      <ncompass_customcarrier2>
+        <class>NCompass_CustomCarrier2_Model</class>
+      </ncompass_customcarrier2>
     </models>
   </global>
   <default>
     <carriers>
-      <ncompass_customcarrier1>
+      <ncompass_customcarrier2>
         <active>1</active>
-        <model>ncompass_customcarrier1/carrier</model>
-        <title>Custom Carrier 1</title>
-        <carrierName>Delivered Exactly (DX)</carrierName>
+        <model>ncompass_customcarrier2/carrier</model>
+        <title>Custom Carrier 2</title>
+        <carrierName>ParcelForce UK</carrierName>
         <titleFree>Free Shipping</titleFree>
         <titleStandard>Standard Shipping</titleStandard>
         <priceStandard>4.99</pricesStandard>
         <titleExpress>Express Delivery</titleExpress>
         <priceExpress>25.00</priceExpress>
-        <trackingUrl>https://www.dxdelivery.com/consumer/my-tracking/</trackingUrl>
-        <trackingAfter>0</trackingAfter>
+        <trackingUrl>https://www.parcelforce.com/track-trace?trackNumber=_</trackingUrl>
+        <trackingAfter>1</trackingAfter>
         <sort_order>10</sort_order>
         <sallowspecific>0</sallowspecific>
-      </ncompass_customcarrier1>
+      </ncompass_customcarrier2>
     </carriers>
   </default>
 </config>

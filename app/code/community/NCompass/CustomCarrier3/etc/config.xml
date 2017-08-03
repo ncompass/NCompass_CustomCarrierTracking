@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <NCompass_CustomCarrier3>
+            <module>1.0.0</module>
+        </NCompass_CustomCarrier3>
+    </modules>
+    <global>
+        <models>
+            <ncompass_customcarrier3>
+                <class>NCompass_CustomCarrier3_Model</class>
+            </ncompass_customcarrier3>
+        </models>
+    </global>
+    <default>
+        <carriers>
+            <ncompass_customcarrier3>
+                <active>1</active>
+                <model>ncompass_customcarrier3/carrier</model>
+                <title>Custom Carrier 3</title>
+                <carrierName>Royal Mail</carrierName>
+                <titleFree>Free Shipping</titleFree>
+                <titleStandard>Standard Shipping</titleStandard>
+                <priceStandard>4.99</pricesStandard>
+                <titleExpress>Express Delivery</titleExpress>
+                <priceExpress>25.00</priceExpress>
+                <trackingUrl>https://www.royalmail.com/track-your-item?trackNumber=</trackingUrl>
+                <trackingAfter>1</trackingAfter>
+                <sort_order>10</sort_order>
+                <sallowspecific>0</sallowspecific>
+            </ncompass_customcarrier3>
+        </carriers>
+    </default>
+</config>
