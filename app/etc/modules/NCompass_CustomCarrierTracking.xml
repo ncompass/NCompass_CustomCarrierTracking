@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <NCompass_CustomCarrier_1>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Shipping />
+            </depends>
+        </NCompass_CustomCarrier_1>
+
+        <!--<NCompass_CustomCarrier_2>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Shipping />
+            </depends>
+        </NCompass_CustomCarrier_2>
+
+        <NCompass_CustomCarrier_3>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Shipping />
+            </depends>
+        </NCompass_CustomCarrier_3>
+
+        <NCompass_CustomCarrier_4>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Shipping />
+            </depends>
+        </NCompass_CustomCarrier_4>
+
+        <NCompass_CustomCarrier_5>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Shipping />
+            </depends>
+        </NCompass_CustomCarrier_5>-->
+    </modules>
+</config>
