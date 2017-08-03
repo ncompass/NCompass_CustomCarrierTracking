@@ -1,5 +1,5 @@
 # Custom Shipping & Carrier/Courier Tracking
->A Magento plugin that provides 5 custom shipping methods/carriers, with support for custom tracking URLs.
+> A Magento 1.9 plugin that provides 5 custom shipping methods/carriers, with support for custom tracking URLs.
 
 ## Features
 
@@ -13,7 +13,7 @@
 
 ## Author Info
 
-Jeremy Stone - NComp@ss Team – [http://www.ncompass.co.uk/extensions]
+Jeremy Stone - NComp@ss Team – [https://www.ncompass.co.uk/extensions]
 
 [https://github.com/ncompass?tab=repositories]
 
