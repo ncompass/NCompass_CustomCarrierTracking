@@ -4,7 +4,7 @@
 ## Features
 
 * Configurable Tracking URls.
-  * Preset Tracking URLs for "Delivered Exactly (DX)", "ParcelForce", "RoyalMail",  "myHermes", and "DPD".
+  * Preset Tracking URLs for Delivered Exactly (DX), ParcelForce, RoyalMail,  myHermes, and DPD.
   * Can be changed to custom url/carrier if required.
   * Option to place tracking number at end of URL or separate.
 * 5 Extra Shipping Methods.
